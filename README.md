@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lucid-x
-- 👀 I’m interested in Cloud(AWS,GCP,Azure) and programming 
-- 🌱 I’m currently learning AWS, Programming(Java, Python)
+
 
 
 <!---
